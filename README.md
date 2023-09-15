@@ -1,2 +1,2 @@
-# Imaage-search-App
+# Image-search-App
 This app helps to find a pictures.
